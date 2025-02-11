@@ -4,7 +4,8 @@ Bem-vindo ao **Miau Secreto!**, um jogo simples e divertido desenvolvido como pa
 
 ## Demonstração
 
-![Screenshot do Jogo](./img/screenshot.png) <!-- Adicione um screenshot do jogo aqui -->
+![Screenshot do Jogo](![screenshot](https://github.com/user-attachments/assets/bd89f42c-3a9d-4566-8333-9d3fd2552d36)
+) <!-- Adicione um screenshot do jogo aqui -->
 
 ## Funcionalidades
 
